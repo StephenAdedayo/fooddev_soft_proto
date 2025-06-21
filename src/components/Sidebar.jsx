@@ -1,7 +1,7 @@
 import React from 'react'
 import logo from '../assets/GoMeal.png'
 import vector from '../assets/vector (7).png'
-import vector1 from '../assets/vector (8).png'
+import vector1 from '../assets/Vector (8).png'
 // import vector2 from '../assets/vector (9).png'
 import vector3 from '../assets/vector (10).png'
 import vector4 from '../assets/vector (11).png'
