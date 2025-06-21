@@ -9,7 +9,7 @@ const Recent = () => {
     const items = [{name: 'Fish Burger', img : pizza}, {name: 'Japan Ramen', img : asian1}, {name: 'Fried Rice', img : asian2},]
 
   return (
-    <div className='w-full p-8 '>
+    <div className='w-full sm:px-8 py-8 px-5 '>
         <div className='flex justify-between items-center mb-5'>
         <p className='font-semibold text-[13px]'>Recent Order</p>
         <p className='text-[#F8B602] text-[11px]'>View All</p>

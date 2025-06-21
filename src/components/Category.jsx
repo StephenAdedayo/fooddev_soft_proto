@@ -12,7 +12,7 @@ const Category = () => {
     const items = [{name : "Bakery", img:baked}, {name : "Burger", img:burger},{name : "Beverage", img:coffee},{name : "Chicken", img:chicken},{name : "Pizza", img:fast},{name : "Fish", img:fish}, ]
 
   return (
-    <div className='w-full p-8 mt-5'>
+    <div className='w-full sm:p-8 p-5 mt-5'>
       <div className='flex justify-between items-center mb-5'>
         <p className='font-semibold text-[13px]'>Category</p>
         <p className='text-[#F8B602] text-[11px]'>View All</p>

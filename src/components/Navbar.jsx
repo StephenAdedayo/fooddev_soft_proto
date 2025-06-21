@@ -11,9 +11,9 @@ const Navbar = () => {
 
   return (
     <>
-    <div className='p-8 w-full'>
+    <div className='sm:px-8 py-8 px-5  w-full'>
        <div className='flex justify-between lg:items-center lg:flex-row flex-col gap-5'>
-
+        
         <div className='flex justify-between items-center'>
            <p className='font-bold text-[20px]'>Hello, Jesutofunmi</p>
            <div className='flex items-center gap-3 lg:hidden '>

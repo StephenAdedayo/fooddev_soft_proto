@@ -7,7 +7,7 @@ const Balance = () => {
     <div className='mt-5'>
       <p className='mb-3 text-[13px] font-semibold'>Your Balance</p>
 
-      <div className='bg-[url("https://res.cloudinary.com/dfuse3jtq/image/upload/v1750462137/background_9_nyec7l.png")] h-[100px] flex items-center p-3 gap-5 justify-center rounded-xl'>
+      <div className='bg-[url("https://res.cloudinary.com/dfuse3jtq/image/upload/v1750462137/background_9_nyec7l.png")] h-[100px] flex items-center p-3 gap-5 justify-center rounded-xl bg-cover bg-center'>
          <div className='bg-white p-2 rounded'>
             <p className='text-[13px]'>Balance</p>
             <p className='font-bold'>$12.000</p>

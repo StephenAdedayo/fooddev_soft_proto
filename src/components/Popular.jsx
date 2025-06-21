@@ -10,7 +10,7 @@ const Popular = () => {
     const items = [{name: "Fish Burger", img: fresh}, {name: "Beef Burger", img: burger3}, {name: "Cheese Burger", img: burger2},]
 
   return (
-    <div className='w-full  p-8'>
+    <div className='w-full  sm:p-8 p-5'>
             <div className='flex justify-between items-center mb-5'>
         <p className='font-semibold text-[13px]'>Popular Dishes</p>
         <p className='text-[#F8B602] text-[11px]'>View All</p>

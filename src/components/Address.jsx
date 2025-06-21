@@ -16,7 +16,7 @@ const Address = () => {
 
        <p className='text-[10px] text-[#A098AE]'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum, nemo.</p>
 
-       <div className='flex flex-col xl:flex-row gap-3'>
+       <div className='flex xl:flex-row lg:flex-col sm:flex-row flex-col gap-3'>
     <button className='px-6 py-2 border border-[#A098AE] text-[#A098AE] rounded text-[10px]'>Add Details</button>
     <button className='px-6 py-2 border border-[#A098AE] text-[#A098AE] rounded text-[10px]'>Add Note</button>
 
